@@ -28,7 +28,7 @@ Currently focused on the data side of engineering: **Python** for data work, **A
 |---|---|---|
 | [documind](https://github.com/juliodaal/documind) | Multi-tenant RAG SaaS — PDFs in, cited answers out. Hybrid search, streaming citations, async ingestion. | Next.js · pgvector · OpenAI |
 | [FlowAgent](https://github.com/juliodaal/FlowAgent) | AI agent workflow engine — task planning and tool execution. | Python |
-| [AIProject_rebuild]([https://github.com/juliodaal/AIProject](https://github.com/juliodaal/IAProject_rebuild)) | Knight's game AI — BFS, DFS, A* and Minimax with Alpha-Beta pruning. | Python · AI · React · Common Lisp |
+| [AIProjectrebuild]([https://github.com/juliodaal/AIProject](https://github.com/juliodaal/IAProject_rebuild)) | Knight's game AI — BFS, DFS, A* and Minimax with Alpha-Beta pruning. | Python · AI · React · Common Lisp |
 | [localizados-venezuela](https://github.com/juliodaal/localizados-venezuela) | Open-source humanitarian project — locating people after the Venezuela earthquake. | Contribution |
 
 More on [juliosousa.dev](https://juliosousa.dev) — including data-platform and automation work built professionally.
