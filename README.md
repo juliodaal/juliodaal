@@ -1,12 +1,12 @@
-# Hi, I'm Julio 👋
+# Hi, I'm Julio Sousa 👋
 
 **Software Engineer · Data · AI · Cloud**
 
-I build systems that scale — backend services, data pipelines and cloud infrastructure, designed before they're coded. Writing code since 2021, shipping products end-to-end: APIs, databases, automation, and the frontends that consume them.
+I work with systems, backend services, data pipelines and cloud infrastructure. Writing code since 2021.
 
 Currently focused on the data side of engineering: **Python** for data work, **AWS** cloud infrastructure, and **AI-powered workflows**.
 
-🌍 Based in Germany · EU citizen · 🔗 [juliosousa.dev](https://juliosousa.dev)
+🌍 Based in Germany · 🔗 [juliosousa.dev](https://juliosousa.dev)
 
 ---
 
@@ -14,7 +14,7 @@ Currently focused on the data side of engineering: **Python** for data work, **A
 
 **Languages** — Python · TypeScript · SQL · Java · C#
 
-**Backend & Data** — FastAPI · Node.js · PostgreSQL (pgvector) · REST APIs · n8n
+**Backend, Data & Frontend** — FastAPI · Node.js · PostgreSQL (pgvector) · REST APIs · n8n · REACT
 
 **Cloud & DevOps** — AWS · Azure · Docker · Kubernetes · CI/CD (GitHub Actions, Azure DevOps)
 
