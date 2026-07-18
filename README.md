@@ -6,7 +6,7 @@ I work with systems, backend services, data pipelines and cloud infrastructure. 
 
 Currently focused on the data side of engineering: **Python** for data work, **AWS** cloud infrastructure, and **AI-powered workflows**.
 
-🌍 Based in Germany · 🔗 [juliosousa.dev](https://juliosousa.dev)
+🌍 Based in Germany · EU citizen · 🔗 [juliosousa.dev](https://juliosousa.dev)
 
 ---
 
