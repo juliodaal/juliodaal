@@ -14,7 +14,7 @@ Currently focused on the data side of engineering: **Python** for data work, **A
 
 **Languages** — Python · TypeScript · SQL · Java · C#
 
-**Backend, Data & Frontend** — FastAPI · Node.js · PostgreSQL (pgvector) · REST APIs · n8n · REACT
+**Backend, Data & Frontend** — FastAPI · Node.js · PostgreSQL (pgvector) · REST APIs · n8n · React
 
 **Cloud & DevOps** — AWS · Azure · Docker · Kubernetes · CI/CD (GitHub Actions, Azure DevOps)
 
